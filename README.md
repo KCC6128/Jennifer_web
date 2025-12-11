@@ -72,7 +72,7 @@ Jennifer_web/
 ├─ img/                           # 所有圖片依主題分類
 │   ├─ self/                      # 個人照片、首頁照片
 │   ├─ works/                     # 作品集圖片
-│   └─ rental/                    # 租借須知展示圖片
+│   └─ rental/                    # 租借服裝圖片
 │
 ├─ index.html                     # 首頁
 ├─ works.html                     # 攝影作品集頁面
