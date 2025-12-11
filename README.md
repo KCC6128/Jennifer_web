@@ -7,8 +7,6 @@ A responsive **photographer portfolio website** built with HTML, CSS, and JavaSc
 
 ## Website Preview
 
->（若要加上預覽圖片，可將圖片放入 img/ 並修改路徑）
-
 ### 首頁（Home）
 <img src="img/home_preview.png" width="800"/>
 
