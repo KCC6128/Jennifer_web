@@ -69,19 +69,18 @@ A responsive **photographer portfolio website** built with HTML, CSS, and JavaSc
 ```
 Jennifer_web/
 │
-├─ img/                    # 圖片資源 (首頁、作品集、占卜等)
-│     home_preview.png
-│     works_preview.png
-│     quiz_preview.png
-│     ...（其他圖片）
+├─ img/                           # 所有圖片依主題分類
+│   ├─ self/                      # 個人照片、首頁照片
+│   ├─ works/                     # 作品集圖片
+│   └─ rental/                    # 租借須知展示圖片
 │
-├─ index.html              # 首頁（Home）
-├─ works.html              # 攝影作品集（Works）
-├─ services.html           # 服務介紹（Services）
-├─ rental.html             # 租借須知（Rental）
-├─ style_quiz.html         # 寫真風格小占卜（Style Quiz）
+├─ index.html                     # 首頁
+├─ works.html                     # 攝影作品集頁面
+├─ services.html                  # 服務介紹頁面
+├─ rental.html                    # 租借須知頁面
+├─ style_quiz.html                # 風格占卜 (JavaScript)
 │
-└── README.md              # 說明文件
+└── README.md                     # 說明文件
 ```
 
 
