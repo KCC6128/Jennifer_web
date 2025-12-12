@@ -1,5 +1,8 @@
 # Jennifer_web
 
+**Live Demo (GitHub Pages)**  
+https://kcc6128.github.io/Jennifer_web/
+
 A responsive **photographer portfolio website** built with HTML, CSS, and JavaScript.  
 使用 **HTML / CSS / JavaScript** 製作的響應式 (RWD) 攝影師個人網站，包含首頁、作品集、服務介紹、租借須知與寫真風格小占卜頁面。
 
