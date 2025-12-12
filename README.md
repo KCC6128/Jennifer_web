@@ -1,7 +1,7 @@
 # Jennifer_web
 
 <a href="https://kcc6128.github.io/Jennifer_web/" target="_blank" rel="noopener noreferrer">
-Live Demo (GitHub Pages)
+Live Demo — View on GitHub Pages
 </a>
 
 A responsive **photographer portfolio website** built with HTML, CSS, and JavaScript.  
